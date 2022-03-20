@@ -8,7 +8,7 @@ Getting feedback from customers is not easy either, but we do our best to get co
 
 We recently did a survey to a select customer cohort. You are presented with a subset of this data. We will be using the remaining data as a private test set.
 
-Data Description:
+***Data Description***:
 
 - Y = target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
 - X1 = my order was delivered on time
